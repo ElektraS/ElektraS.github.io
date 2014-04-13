@@ -342,3 +342,10 @@ a.bg-danger:hover {
 .label-danger[href]:focus {
   background-color: #9a0200;
 }
+
+
+.mj{
+/*	float: left;
+*/	width: 160px;
+	height: 140px;
+}
