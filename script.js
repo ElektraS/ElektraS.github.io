@@ -70,7 +70,7 @@ $(document).ready(function() {
 	var bubble_GO = new Kinetic.Text({
 		x: stage.width()/3.1,
 		y: stage.height()/2,
-		text: 'Dear pilote, \n\n You lack training. \n\n You may do better next time ! \n\n Press space bar to relaunch.',
+		text: 'Dear pilot, \n\n You lack training. \n\n You may do better next time ! \n\n Press space bar to relaunch.',
 		fontSize: 18,
 		fontFamily: 'Calibri',
 		fill: '#555',
@@ -115,7 +115,7 @@ $(document).ready(function() {
 	var bubble_vic = new Kinetic.Text({
 		x: stage.width()/3.1,
 		y: stage.height()/2,
-		text: 'Dear pilote, \n\n You succeeded the mission. \n\n Next mission : Coming soon. \n\n Press space bar to relaunch.',
+		text: 'Dear pilot, \n\n You succeeded the mission. \n\n Next mission : Coming soon. \n\n Press space bar to relaunch.',
 		fontSize: 18,
 		fontFamily: 'Calibri',
 		fill: '#555',
